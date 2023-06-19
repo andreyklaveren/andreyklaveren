@@ -8,3 +8,6 @@ Formado em Análise e Desenvolvimento de Sistemas
 
 ### Projeto
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=Tik-Tok-Clone&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyklaveren&hide_progress=true)
