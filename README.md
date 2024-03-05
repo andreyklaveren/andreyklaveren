@@ -4,7 +4,7 @@
 Formado em Análise e Desenvolvimento de Sistemas
 
 ### Detalhes
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyklaveren&show_icons=true&theme=radical&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyklaveren&show_rank_icon=true&theme=radical&hide=contribs,prs)
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=Tik-Tok-Clone&theme=dark)](https://github.com/andreyklaveren/github-readme-stats)
