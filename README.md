@@ -8,7 +8,7 @@ Formado em Análise e Desenvolvimento de Sistemas
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=Tik-Tok-Clone&theme=dark)](https://github.com/andreyklaveren/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=BuscadorCEP&theme=dark)](https://github.com/andreyklaveren/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=buscador-cep&theme=dark)](https://github.com/andreyklaveren/buscador-cep)
 
 
 ### Linguagens utilizadas
