@@ -8,7 +8,7 @@ Formado em Análise e Desenvolvimento de Sistemas
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=armandinho&theme=dark)](https://github.com/andreyklaveren/armandinho)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=buscador-cep&theme=dark)](https://buscador-cep-mu-ebon.vercel.app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=buscador-cep&theme=dark)](https://github.com/andreyklaveren/buscador-cep)
 
 
 ### Linguagens utilizadas
