@@ -4,7 +4,7 @@ Ex-militar com 8 anos de experiência como Cabo do Exército Brasileiro
 em setor administrativo, atualmente em transição para a área de TI
 
 ## TECNOLOGIAS
-React JS | JavaScript | TypeScript | Git | APIs | SQL | Bootstrap | HTML/CSS (SASS, Tailwind, Styled-Components) | Vite | Figma |
+React JS | JavaScript | TypeScript | Git | APIs | SQL | Bootstrap | Vite | Figma | HTML/CSS ( SASS - Tailwind - Styled-Components )
 
 
 
