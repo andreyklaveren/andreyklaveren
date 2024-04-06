@@ -6,18 +6,5 @@ em setor administrativo, atualmente em transição para a área de TI
 ## TECNOLOGIAS
 React JS | JavaScript | TypeScript | Git | APIs | SQL | Bootstrap | Vite | Figma | HTML/CSS ( SASS - Tailwind - Styled-Components )
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyklaveren&layout=donut&theme=dark)](https://github.com/andreyklaveren/github-readme-stats)
