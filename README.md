@@ -7,7 +7,7 @@ Formado em Análise e Desenvolvimento de Sistemas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyklaveren&show_icon=true&rank_icon=github&theme=dark&hide=contribs,prs)
 #
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=armandinho&theme=dark)](https://github.com/andreyklaveren/armandinho) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=buscador-cep&theme=dark)](https://github.com/andreyklaveren/buscador-cep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=portfolio&theme=dark)](https://github.com/andreyklaveren/portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreyklaveren&repo=buscador-cep&theme=dark)](https://github.com/andreyklaveren/buscador-cep)
 #
 
 ### Linguagens utilizadas
