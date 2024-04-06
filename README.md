@@ -1,7 +1,7 @@
-### Olá pessoal 👋
-
-###### Sobre Andrey
-Formado em Análise e Desenvolvimento de Sistemas
+#Andrey Silva
+##DESENVOLVEDOR FRONT-END
+Ex-militar com 8 anos de experiência como Cabo do Exército Brasileiro
+em setor administrativo, atualmente em transição para a área de TI
 
 ### Detalhes
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyklaveren&show_icon=true&rank_icon=github&theme=dark&hide=contribs,prs)
